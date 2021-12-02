@@ -1,0 +1,18 @@
+<div class="paginaCompleta">
+    <div class="menu">
+        <h6>TImports</h6>
+            <div class="produto" [routerLink]="['/play1']" routerLinkActive="active">Playstation I</div>
+            <div class="produto" [routerLink]="['/play2']" routerLinkActive="active">Playstation II</div>
+            <div class="produto" [routerLink]="['/play3']" routerLinkActive="active">Playstation III</div>
+            <div class="produto" [routerLink]="['/play4']" routerLinkActive="active">Playstation IV</div>            
+            <div class="produto" [routerLink]="['/play5']" routerLinkActive="active">Playstation V</div>
+            <div class="produto" [routerLink]="['/xbox360']" routerLinkActive="active">Xbox 360</div>
+            <div class="produto" [routerLink]="['/xboxOne']" routerLinkActive="active">Xbox One</div>
+            <div class="produto" [routerLink]="['/xboxSeriesS']" routerLinkActive="active">Xbox Series S</div>
+            <div class="produto" [routerLink]="['/xboxSeriesX']" routerLinkActive="active">Xbox Series X</div>
+            <div class="produto" [routerLink]="['/acessorios']" routerLinkActive="active">Acessórios</div>
+    </div>
+    <div class="produtos">
+        <router-outlet></router-outlet>
+    </div>
+</div>

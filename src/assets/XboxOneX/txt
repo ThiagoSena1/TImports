@@ -1,0 +1,54 @@
+{
+       pathImage: 'assets/XboxOneX/ConsoleX.jpg',
+      name: ' Xbox One X',
+      
+
+},
+{
+      pathImage: 'assets/XboxOneX/ControleX.jpg',
+      name: ' Controle Xbox X',
+      
+
+},
+{
+       pathImage: 'assets/XboxOneX/AWayOut.jpg',
+      name: ' A way Out',
+      
+
+},{
+       pathImage: 'assets/XboxOneX/DyingLight.jpg',
+      name: ' Dying Light',
+      
+
+},{
+      pathImage: 'assets/XboxOneX/GhostRecon.jpg',
+      name: ' Ghost Recon',
+      
+
+},{
+      pathImage: 'assets/XboxOneX/Helo5.jpg',
+      name: ' Helo 5',
+      
+
+},{
+       pathImage: 'assets/XboxOneX/Metro.jpg',
+      name: ' Metro',
+      
+
+},{
+       pathImage: 'assets/XboxOneX/OutLast.jpg',
+      name: ' OutLast',
+      
+
+},{
+       pathImage: 'assets/XboxOneX/Ryse.jpg',
+      name: ' Ryse',
+      
+
+},{
+       pathImage: 'assets/XboxOneX/TheDivison.jpg',
+      name: ' The Divison',
+      
+
+}
+
